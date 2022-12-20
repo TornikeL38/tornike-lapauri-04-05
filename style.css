@@ -7,9 +7,10 @@
 .leftside{
   display: inline-block;
   width: 400px;
-  height: 600px;    
+  height: 688px;    
   background-color: #2F80ED;
   text: color white;
+  float:left;
 }
 .rightside{
   display: inline-block;
