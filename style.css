@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+.leftside{
+  display: inline-block;
+  width: 400px;
+  height: 600px;    
+  background-color: #2F80ED;
+  text: color white;
+}
+.rightside{
+  display: inline-block;
+  width: 900px;
+  height: 600px;    
+  background-color: white;
+}
+#txtcolor{
+  color: white;
+}
+#picture{
+  height: 307px;
+  width: 451px;
+}
+.textlocation{
+  left: 897px;
+  top: 82px;
+}
